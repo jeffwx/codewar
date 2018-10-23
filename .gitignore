@@ -1,0 +1,8 @@
+# Editors
+/.idea
+/.vscode
+/*.iml
+# Build artifacts
+/.tmp
+.vscode
+.sonarlint
